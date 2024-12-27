@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(0, 41, 188)  ;
+    text-align: center  ;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul li {
+    text-decoration: none;
+    text-align: center;
+    text-emphasis-color: grey;
+    font-size: 50px;
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: rgb(234, 193, 193);
+}
